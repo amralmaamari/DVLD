@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AD01CF9E-4EB4-4836-8B3A-777FDD6F49FF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DvldDataBusinessLayer</RootNamespace>
+    <AssemblyName>DvldDataBusinessLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsApplications.cs" />
+    <Compile Include="clsApplicationType.cs" />
+    <Compile Include="clsCar.cs" />
+    <Compile Include="clsCarAvailability.cs" />
+    <Compile Include="clsCarTypes.cs" />
+    <Compile Include="clsCountry.cs" />
+    <Compile Include="clsCustomer.cs" />
+    <Compile Include="clsDetainedLicensecs.cs" />
+    <Compile Include="clsDriver.cs" />
+    <Compile Include="clsInternationalLicense.cs" />
+    <Compile Include="clsLicense.cs" />
+    <Compile Include="clsLicenseClass.cs" />
+    <Compile Include="clsLocalDrivingLicenseApplication.cs" />
+    <Compile Include="Pub-Sub Car\clsNewCarReleases.cs" />
+    <Compile Include="clsPeople.cs" />
+    <Compile Include="clsQuestion.cs" />
+    <Compile Include="clsQuestionLevels.cs" />
+    <Compile Include="clsRentalApplication.cs" />
+    <Compile Include="clsCarRentalApplication.cs" />
+    <Compile Include="clsRentType.cs" />
+    <Compile Include="clsTest.cs" />
+    <Compile Include="clsTestAppointment.cs" />
+    <Compile Include="clsTestType.cs" />
+    <Compile Include="clsTransmissionTypes.cs" />
+    <Compile Include="clsUser.cs" />
+    <Compile Include="clsUtil.cs" />
+    <Compile Include="clsValidatoin.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DvldDataAccessLayer\DVLD_Data.csproj">
+      <Project>{c8f5a01e-afa1-4732-bf2e-b914dc29f9df}</Project>
+      <Name>DVLD_Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,9 @@
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\bin\Release\DvldDataBusinessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\bin\Release\DvldDataBusinessLayer.pdb
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\bin\Release\DvldDataAccessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\bin\Release\DvldDataAccessLayer.pdb
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Release\DVLD_Business.csproj.AssemblyReference.cache
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Release\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Release\DVLD_Business.csproj.CopyComplete
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Release\DvldDataBusinessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Release\DvldDataBusinessLayer.pdb

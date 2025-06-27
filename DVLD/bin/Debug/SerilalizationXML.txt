@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clsCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TotalCars>1</TotalCars>
+  <CarID>29</CarID>
+  <CarTypeID>1</CarTypeID>
+  <Model>fd</Model>
+  <Year>2024-06-18T00:00:00</Year>
+  <Color>#000000</Color>
+  <Engine>fd</Engine>
+  <TransmissionTypeID>MT</TransmissionTypeID>
+  <UserIDCreated>38</UserIDCreated>
+  <DateOfCreated>2024-06-18T14:52:47.1331217+05:30</DateOfCreated>
+</clsCar>

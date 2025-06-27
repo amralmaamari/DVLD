@@ -1,0 +1,12 @@
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\bin\Debug\DvldDataAccessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\bin\Debug\DvldDataAccessLayer.pdb
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\obj\Debug\DVLD_Data.csproj.AssemblyReference.cache
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\obj\Debug\DVLD_Data.csproj.CoreCompileInputs.cache
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\obj\Debug\DvldDataAccessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\obj\Debug\DvldDataAccessLayer.pdb
+D:\Github For Work\DVLD Project\DvldDataAccessLayer\bin\Debug\DvldDataAccessLayer.dll
+D:\Github For Work\DVLD Project\DvldDataAccessLayer\bin\Debug\DvldDataAccessLayer.pdb
+D:\Github For Work\DVLD Project\DvldDataAccessLayer\obj\Debug\DVLD_Data.csproj.AssemblyReference.cache
+D:\Github For Work\DVLD Project\DvldDataAccessLayer\obj\Debug\DVLD_Data.csproj.CoreCompileInputs.cache
+D:\Github For Work\DVLD Project\DvldDataAccessLayer\obj\Debug\DvldDataAccessLayer.dll
+D:\Github For Work\DVLD Project\DvldDataAccessLayer\obj\Debug\DvldDataAccessLayer.pdb

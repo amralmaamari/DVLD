@@ -1,0 +1,6 @@
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\bin\Release\DvldDataAccessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\bin\Release\DvldDataAccessLayer.pdb
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\obj\Release\DVLD_Data.csproj.AssemblyReference.cache
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\obj\Release\DVLD_Data.csproj.CoreCompileInputs.cache
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\obj\Release\DvldDataAccessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataAccessLayer\obj\Release\DvldDataAccessLayer.pdb

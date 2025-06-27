@@ -1,0 +1,18 @@
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\bin\Debug\DvldDataBusinessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\bin\Debug\DvldDataBusinessLayer.pdb
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\bin\Debug\DvldDataAccessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\bin\Debug\DvldDataAccessLayer.pdb
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Debug\DVLD_Business.csproj.CopyComplete
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Debug\DvldDataBusinessLayer.dll
+D:\programmingadvices\2\19\DVLD Project\DvldDataBusinessLayer\obj\Debug\DvldDataBusinessLayer.pdb
+D:\Github For Work\DVLD Project\DvldDataBusinessLayer\bin\Debug\DvldDataBusinessLayer.dll
+D:\Github For Work\DVLD Project\DvldDataBusinessLayer\bin\Debug\DvldDataBusinessLayer.pdb
+D:\Github For Work\DVLD Project\DvldDataBusinessLayer\bin\Debug\DvldDataAccessLayer.dll
+D:\Github For Work\DVLD Project\DvldDataBusinessLayer\bin\Debug\DvldDataAccessLayer.pdb
+D:\Github For Work\DVLD Project\DvldDataBusinessLayer\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\Github For Work\DVLD Project\DvldDataBusinessLayer\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\Github For Work\DVLD Project\DvldDataBusinessLayer\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+D:\Github For Work\DVLD Project\DvldDataBusinessLayer\obj\Debug\DvldDataBusinessLayer.dll
+D:\Github For Work\DVLD Project\DvldDataBusinessLayer\obj\Debug\DvldDataBusinessLayer.pdb
